@@ -131,6 +131,12 @@ If you want deeper review access, open an issue or contact me through:
 - LinkedIn: [linkedin.com/in/robertgaraban](https://www.linkedin.com/in/robertgaraban)
 - Website: [hydroabyss.com](https://hydroabyss.com)
 
+## Código fuente
+
+**Repositorio privado:** `Robertgaraban/hydroabyss` — acceso como colaborador bajo solicitud
+
+Solicitar acceso: **robertgaraban@gmail.com** — Asunto: `[Acceso repo privado] hydroabyss`
+
 ## Notes
 
 - This repository is published for evaluation and portfolio review.
